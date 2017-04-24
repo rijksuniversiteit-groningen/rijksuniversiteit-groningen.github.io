@@ -1,4 +1,4 @@
-## Building blocks University of Groningen
+## University of Groningen Building Blocks 
 Here you can find the building blocks developer by the University of Groningen. If you need any more information, please contact nestorsupport@rug.nl
 
 - [Advanced Group Tool](http://b2catalog.citesi.nl/show/CourseOrganizer)
