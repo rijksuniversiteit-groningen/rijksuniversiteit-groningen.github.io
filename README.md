@@ -8,3 +8,4 @@ Here you can find the building blocks developer by the University of Groningen. 
 - [Ephorus Assignment](http://b2catalog.citesi.nl/show/ephorus-assignment)
 - [Login](https://github.com/rijksuniversiteit-groningen/b2-Login)
 - [Presentations2Go](http://b2catalog.citesi.nl/show/P2Go)
+- [Workflow Tool](https://github.com/rijksuniversiteit-groningen/b2-WorkflowTool)
