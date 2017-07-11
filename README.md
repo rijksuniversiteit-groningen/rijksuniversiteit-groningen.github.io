@@ -1,5 +1,4 @@
-## University of Groningen Building Blocks
-Here you can find the building blocks developer by the University of Groningen. If you need any more information, please contact nestorsupport@rug.nl
+On this page, you can find building blocks developed by the University of Groningen. If you require any further information, please contact <nestorsupport@rug.nl>.
 
 - [Advanced Group Tool](https://github.com/rijksuniversiteit-groningen/b2-AdvancedGroupTool)
 - [Assessment Tools](https://github.com/rijksuniversiteit-groningen/b2-AssessmentTools)
