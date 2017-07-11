@@ -6,5 +6,5 @@ On this page, you can find building blocks developed by the University of Gronin
 - [Course Organizer](https://github.com/rijksuniversiteit-groningen/b2-CourseOrganizer)
 - [Ephorus Assignment](https://github.com/rijksuniversiteit-groningen/b2-EphorusAssignment)
 - [Login](https://github.com/rijksuniversiteit-groningen/b2-Login)
-- [Presentations2Go](http://b2catalog.citesi.nl/show/P2Go)
+- [Presentations2Go](https://github.com/rijksuniversiteit-groningen/b2-Presentations2Go)
 - [Workflow Tool](https://github.com/rijksuniversiteit-groningen/b2-WorkflowTool)
