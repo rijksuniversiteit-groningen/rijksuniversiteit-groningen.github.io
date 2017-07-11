@@ -4,7 +4,7 @@ Here you can find the building blocks developer by the University of Groningen. 
 - [Advanced Group Tool](https://github.com/rijksuniversiteit-groningen/b2-AdvancedGroupTool)
 - [Assessment Tools](https://github.com/rijksuniversiteit-groningen/b2-AssessmentTools)
 - [Batch Folder Maker](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker)
-- [Course Organizer](http://b2catalog.citesi.nl/show/CourseOrganizer)
+- [Course Organizer](https://github.com/rijksuniversiteit-groningen/b2-CourseOrganizer)
 - [Ephorus Assignment](http://b2catalog.citesi.nl/show/ephorus-assignment)
 - [Login](https://github.com/rijksuniversiteit-groningen/b2-Login)
 - [Presentations2Go](http://b2catalog.citesi.nl/show/P2Go)
