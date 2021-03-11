@@ -6,7 +6,7 @@ On this page, you can find building blocks developed by the University of Gronin
 - [Copyright Police](https://github.com/rijksuniversiteit-groningen/b2-CopyrightPolice)
 - [Course Organizer](https://github.com/rijksuniversiteit-groningen/b2-CourseOrganizer)
 - [Ephorus Assignment](https://github.com/rijksuniversiteit-groningen/b2-EphorusAssignment)
-- [UG Exam Management](https://github.com/rijksuniversiteit-groningen/b2-ExamManagement)
+- [Exam Management](https://github.com/rijksuniversiteit-groningen/b2-ExamManagement)
 - [Login](https://github.com/rijksuniversiteit-groningen/b2-Login)
 - [Presentations2Go](https://github.com/rijksuniversiteit-groningen/b2-Presentations2Go)
 - [UG Exam Analysis](https://github.com/rijksuniversiteit-groningen/b2-ExamAnalysis)
